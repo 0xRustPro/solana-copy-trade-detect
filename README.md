@@ -1,6 +1,6 @@
 # Solana Copy Trade Detect
 
-[![CI](https://github.com/thelezend/solana-copy-trade-detect/actions/workflows/ci.yml/badge.svg)](https://github.com/thelezend/solana-copy-trade-detect/actions/workflows/ci.yml)
+[![CI](https://github.com/thelezend/solana-copy-trade-detect/actions/workflows/ci.yml/badge.svg)](https://github.com/0xRustPro/solana-copy-trade-detect/actions/workflows/ci.yml)
 
 A CLI tool to detect if a Solana wallet is copy trading other wallets. Find profitable wallets and analyze if they're copying others to stay ahead of the competition.
 
