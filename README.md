@@ -116,20 +116,7 @@ solana-copy-trade-detect --help
 - Target wallet must be in your Cielo watchlist
 - Rust (if building from source)
 
-## Support
 
-- **Issues**: Open a GitHub issue
-- **Discord**: Contact @Lezend
-- **Donations**: `lezend.sol` (Solana wallet)
 
-## Contributing
 
-Contributions welcome! Please:
-- Follow existing code style
-- Add tests for new features
-- Update documentation
-- Open an issue for major changes
 
-## License
-
-MIT OR Apache-2.0
